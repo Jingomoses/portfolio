@@ -59,9 +59,19 @@ agent performance versus customer win back.
 
 ## Projects
 
+### Reporting Dashboard 1 - MS EXCEL
+Able to visualise and design Microsoft Excel based dashboards, using Pivots and slices to manipulate data views.
+<img src = "https://github.com/Jingomoses/portfolio/assets/28936759/ce3cefd1-e528-4fea-902d-381c638f9103" width="600" height="400">
+
+### Reporting Dashboard 2  - POWER BI
+Able to Extract, Transform and Load data, design and generate dashboards using Power BI.
+<img src = "https://github.com/Jingomoses/portfolio/assets/28936759/62964913-65b5-4180-a013-2a1cebe47f01" width="600" height="400">
+
+### Web development - E-commerce application
+Sample E-commerce project designed under HavardX/CS50 Web design with Python and Django
 
 
-### Skills
+## Skills
 - Data visualisation
 - Data analysis
 - Data validation
