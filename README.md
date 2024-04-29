@@ -48,6 +48,14 @@ Able to Extract, Transform and Load data, design and generate dashboards using P
 
 ### Web development - E-commerce application
 Sample E-commerce project designed under HavardX/CS50 Web design with Python and Django
+<p><i>Image 1</i></p>
+<img src = "https://github.com/Jingomoses/portfolio/assets/28936759/d268ab2a-4800-43d1-9da1-f986f8edf5a1" width="550" height="250"> 
+
+<p><i>Image 2</i></p>
+<img src = "https://github.com/Jingomoses/portfolio/assets/28936759/d778d8b9-98f3-4482-8b37-e60eb56ee562" width="550" height="250">
+
+<p><i>Image 3</i></p>
+<img src = "https://github.com/Jingomoses/portfolio/assets/28936759/2a5d13d8-94c6-4820-9b7f-83a5dbdf1719" width="550" height="250">
 
 
 ## Skills
@@ -67,4 +75,4 @@ Sample E-commerce project designed under HavardX/CS50 Web design with Python and
 
 
 
-<footer> <em>This portfolio is continuously under construction. Other projects and experiences yet to be updated. &copy; 2024 - Moses Jingo</em></footer>
+<footer> <em>This portfolio is continuously under update. &copy; 2024 - Moses Jingo</em></footer>
