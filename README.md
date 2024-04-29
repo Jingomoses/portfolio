@@ -75,4 +75,4 @@ Sample E-commerce project designed under HavardX/CS50 Web design with Python and
 
 
 
-<footer> <em>This portfolio is continuously under update. &copy; 2024 - Moses Jingo</em></footer>
+
