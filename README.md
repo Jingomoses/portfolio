@@ -6,6 +6,22 @@ data, identify patterns, visualise and extract actionable insights and informati
 from multiple sources.
 
 ## Work Experience
+
+### Assistant Supply Chain Co-Ordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
+- Creating regular product position sheets so that demand is matched with supply with the aim of 
+optimising stock levels and providing a delivery forecast. 
+- Management of production schedules against orders, stock processing, including any related 
+movements/transfers and checking of outturns and Job Builds, with any problems to be escalated. 
+- Organising, tracking and recording stock movements, liaising and communicating with suppliers such 
+as warehouses, processors and hauliers to effect good working relations. 
+- Contributing to month-end procedure by collecting, preparing and reconciling warehouse stock reports 
+and reconciling when required, and assessing the monthly delivery forecast against actual deliveries 
+out. 
+- Reduced reporting time by developing VBA scripts to aggregate and consolidate multiple raw data files 
+used for monthly reporting. 
+- Logging, checking and authorising invoices for processing and haulage. 
+
+
 ### Customer Experience & Payments Analyst (EAST, CENTRAL & W. AFRICA) MultiChoice Group, APRIL 2021 - PRESENT
 - Realtime monitoring of approximately 9,000 payments per day to ensure prompt service activation. Executed daily reconciliations to ensure allocation of (5,000+) payments.
 - Utilised data visualisation tools to develop dashboards with MS Excel, Power BI and centralise timely access to reports with stakeholders.
