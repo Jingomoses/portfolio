@@ -1,11 +1,11 @@
-# Moses Jingo
+**# Moses Jingo**
 
-Welcome to my Portfolio page.
+Welcome!
 
-I'm a curious and passionate data analyst with about 8 years’ previous experience in exploring raw and dirty data to uncover understand the business problems at play and the underlying opportunities. With this analysis, I derive initiatives that deliver business benefit in terms of profitability and other operational efficiencies. 
+I'm a curious and passionate data analyst with about 8 years’ recent experience in exploring raw and dirty data to uncover understand the business problems at play and the underlying opportunities. With this analysis, I derive initiatives that deliver business benefit in terms of profitability and other operational efficiencies. 
 
 
-## KEY ACHIEVEMENT
+**## KEY ACHIEVEMENT**
 Having started out as a data entrant (with an initial contract of only 3 months), in my fourth month I was appointed to lead a year long customer retention team - the first of its kind in the company. After a year of recovering customers at a success rate of about 28%, I was moved to the BackOffice where I investigated problems affecting the business at the time such as failed and missing payments, failed auto reconnections. I initiated and led multiple projects to integrate payment options via web services/APIs and this helped to deliver success on multiple operational fronts.
 - It moved the payment journey into real-time experience, instant pay with instant remittance and instant service activation.
 - It led to decline in failed/missing payments.
@@ -15,7 +15,26 @@ Having started out as a data entrant (with an initial contract of only 3 months)
 From this success, a new role in the Back Office, **Digital Payments Officer** was formalised as a critical support function to the business.
   
 
-## Experience
+**## Skills**
+- Attention to detail
+- Collaboration
+- Data modelling (ETL) with MS Excel and Power Query & M
+- Agile methodology
+- Business needs and requirements gathering
+- Use case/business case preparation
+- Process mapping (as-is and to-be mapping)
+- SQL
+- Stakeholder engagement
+- System Integration Testing and User Acceptance Testing,
+- Web services and API Integrations
+- Data visualisation with Excel & Power BI
+- Python, TypeScript,  Excel VBA
+- JavaScript
+- HTML, CSS, Bootstrap
+- Web development with Django/Flask frameworks
+
+
+**## Experience**
 
 ### Assistant Supply Chain Coordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
 - Maintained optimal stock levels across product categories by conducting **demand forecasts** using predictive analysis, time series and moving averages across 12 SKUs.
@@ -70,7 +89,7 @@ Led a team of 10 agents on a customer retention project where we successfully wo
 - Introduced team incentives to enhance agent productivity and morale.
 
 
-## Projects from Continued Personal Development
+**## Projects from Continued Personal Development**
 
 ### Reporting Dashboard 1 - MS EXCEL
 Able to visualise and design Microsoft Excel based dashboards, using Pivots and slices to manipulate data views.
@@ -94,23 +113,7 @@ Sample E-commerce web application project as part of HavardX/CS50 Web design wit
 <img src = "https://github.com/Jingomoses/portfolio/assets/28936759/2a5d13d8-94c6-4820-9b7f-83a5dbdf1719" width="550" height="250">
 
 
-## Skills
-- Attention to detail
-- Collaboration
-- Data modelling (ETL) with MS Excel and Power Query & M
-- Agile methodology
-- Business needs and requirements gathering
-- Use case/business case preparation
-- Process mapping (as-is and to-be mapping)
-- SQL
-- Stakeholder engagement
-- System Integration Testing and User Acceptance Testing,
-- Web services and API Integrations
-- Data visualisation with Excel & Power BI
-- Python, TypeScript,  Excel VBA
-- JavaScript
-- HTML, CSS, Bootstrap
-- Web development with Django/Flask frameworks
+
 
 
 
