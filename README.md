@@ -78,11 +78,11 @@ Able to visualise and design Microsoft Excel based dashboards, using Pivots and 
 <img src = "https://github.com/Jingomoses/portfolio/assets/28936759/ce3cefd1-e528-4fea-902d-381c638f9103" width="600" height="250" alt="Data used here is untrue, only for purposes of creating a dashboard">
 
 ### Reporting Dashboard 2  - POWER BI
-Able to Extract, Transform and Load data, design and generate dashboards using Power BI.
+A sample multinational dashboard built on Power BI showing payments processing in different countries with the ability to relay performance data from all payment vendors, markets and channels whether in isolation or combined, with another focus on KPIs like successful vs failed payments to support quick actions to resolve the failures.
 <img src = "https://github.com/Jingomoses/portfolio/assets/28936759/62964913-65b5-4180-a013-2a1cebe47f01" width="550" height="250" alt="Data used here is untrue, only for purposes of creating a dashboard">
 
 ### Web development - E-commerce application
-Sample E-commerce project designed under HavardX/CS50 Web design with Python and Django
+Sample E-commerce web application project as part of HavardX/CS50 Web design with Python and Django. Other technologies used included HTML, CSS, Bootstrap, JavaScript and the database was built on SQLite.
 <p><i>Image 1</i></p>
 <img src = "https://github.com/Jingomoses/portfolio/assets/28936759/d268ab2a-4800-43d1-9da1-f986f8edf5a1" width="550" height="250"> 
 
