@@ -1,11 +1,11 @@
-**# Moses Jingo**
+# Moses Jingo
 
 Welcome!
 
 I'm a curious and passionate data analyst with about 8 years’ recent experience in exploring raw and dirty data to uncover understand the business problems at play and the underlying opportunities. With this analysis, I derive initiatives that deliver business benefit in terms of profitability and other operational efficiencies. 
 
 
-**## KEY ACHIEVEMENT**
+## KEY ACHIEVEMENT
 Having started out as a data entrant (with an initial contract of only 3 months), in my fourth month I was appointed to lead a year long customer retention team - the first of its kind in the company. After a year of recovering customers at a success rate of about 28%, I was moved to the BackOffice where I investigated problems affecting the business at the time such as failed and missing payments, failed auto reconnections. I initiated and led multiple projects to integrate payment options via web services/APIs and this helped to deliver success on multiple operational fronts.
 - It moved the payment journey into real-time experience, instant pay with instant remittance and instant service activation.
 - It led to decline in failed/missing payments.
@@ -15,7 +15,7 @@ Having started out as a data entrant (with an initial contract of only 3 months)
 From this success, a new role in the Back Office, **Digital Payments Officer** was formalised as a critical support function to the business.
   
 
-**## Skills**
+## Skills
 - Attention to detail
 - Collaboration
 - Data modelling (ETL) with MS Excel and Power Query & M
@@ -34,7 +34,7 @@ From this success, a new role in the Back Office, **Digital Payments Officer** w
 - Web development with Django/Flask frameworks
 
 
-**## Experience**
+## Experience
 
 ### Assistant Supply Chain Coordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
 - Maintained optimal stock levels across product categories by conducting **demand forecasts** using predictive analysis, time series and moving averages across 12 SKUs.
@@ -42,9 +42,6 @@ From this success, a new role in the Back Office, **Digital Payments Officer** w
 - Using Excel VBA, I enhanced the stock reconciliation process by **automating the aggregation of data files** into one central repository reducing workload by about 5 hours per month.
 - Collaborated with internal and external teams to streamline supply chain operations, material planning for bespoke orders in compliance with supplier acceptance records.
 - Implement continuous improvement initiatives to streamline inventory control.
-
-
-
 
 
 ### Customer Experience & Payments Analyst (EAST, CENTRAL & W. AFRICA) MultiChoice Group, APRIL 2021 - JULY 2024
@@ -80,7 +77,6 @@ Successfully steered the revamp and delivery of several digital payment solution
 - Drove growth in digital payment volumes from less than 50% to over 88% of total subscriptions and increased digital revenue from under $1M to over $3M annually.
 
 
-
 ### Team Lead – Customer Retention MultiChoice Uganda, Jan 2014 – Jan 2015
 Led a team of 10 agents on a customer retention project where we successfully won back customers at a 30% success rate within one year.
 - Conducted root cause analysis on the prevalent low customer contact rate, used MS Excel to clean up over 20,000 customer records, which improved the contact rate, ultimately delivering retention communication to customers.
@@ -89,7 +85,7 @@ Led a team of 10 agents on a customer retention project where we successfully wo
 - Introduced team incentives to enhance agent productivity and morale.
 
 
-**## Projects from Continued Personal Development**
+## Projects from Continued Personal Development
 
 ### Reporting Dashboard 1 - MS EXCEL
 Able to visualise and design Microsoft Excel based dashboards, using Pivots and slices to manipulate data views.
