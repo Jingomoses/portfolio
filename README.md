@@ -18,13 +18,12 @@ From this success, a new role in the Back Office, **Digital Payments Officer** w
 ## Experience
 
 ### Assistant Supply Chain Coordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
-- Adopted usage of VBA scripts and using MS Excel to aggregate and consolidate multiple raw data files used for monthly reporting, significantly reducing data gathering time.
-- Implemented better ways to transform data from different sources using Power Query for report generation. This has helped to reduce time taken to prepare and distribute some reports for timely decision making by senior management.
 - Maintained optimal stock levels across product categories by conducting demand forecasts using predictive analysis, time series and moving averages across 12 SKUs.
 - Developed 3 interactive reports in MS Excel and Power BI, improving inventory accuracy by 20% and reducing slow-moving inventory 15% through precise monitoring and reporting.
-- Using Excel VBA, I wrote a script to enhance the stock reconciliation process by automating the aggregation of multiple data files into one central repository reducing workload by about 5 hours per month.
+- Using Excel VBA, I enhanced the stock reconciliation process by automating the aggregation of multiple data files into one central repository reducing workload by about 5 hours per month.
 - Collaborated with internal and external teams to streamline supply chain operations, material planning for bespoke orders in compliance with supplier acceptance records.
 - Implement continuous improvement initiatives to streamline inventory control.
+
 
 
 
