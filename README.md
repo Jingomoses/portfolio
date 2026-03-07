@@ -79,6 +79,7 @@ Able to visualise and design Microsoft Excel based dashboards, using Pivots and 
 
 ### Reporting Dashboard 2  - POWER BI
 A sample multinational dashboard built on Power BI showing payments processing in different countries with the ability to relay performance data from all payment vendors, markets and channels whether in isolation or combined, with another focus on KPIs like successful vs failed payments to support quick actions to resolve the failures.
+
 <img src = "https://github.com/Jingomoses/portfolio/assets/28936759/62964913-65b5-4180-a013-2a1cebe47f01" width="550" height="250" alt="Data used here is untrue, only for purposes of creating a dashboard">
 
 ### Web development - E-commerce application
