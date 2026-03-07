@@ -1,15 +1,30 @@
 # Moses Jingo
 
-I have over 6 years’ proven experience in business analysis, data-driven analysis to derive business process improvements, and change management in a fast-paced multinational fintech environment with timelines. Over the period, I was able to bridge technical and operational gaps in our processes, implemented measurable changes that resulted in 80% growth in digital payments, growing digital payment revenue by over $3 million annually, reduced system inefficiencies as well as risks associated with cash payments. I also have experience of working with technical teams and third-party partners.
+Welcome to my Portfolio page.
 
-## Work Experience
+I'm a curious and passionate data analyst with about 8 years’ previous experience in exploring raw and dirty data to uncover understand the business problems at play and the underlying opportunities. With this analysis, I derive initiatives that deliver business benefit in terms of profitability and other operational efficiencies. 
 
-### Assistant Supply Chain Co-Ordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
+
+## KEY ACHIEVEMENT
+Having started out as a data entrant (with an initial contract of only 3 months), in my fourth month I was appointed to lead a year long customer retention team - the first of its kind in the company. After a year of recovering customers at a success rate of about 28%, I was moved to the BackOffice where I investigated problems affecting the business at the time such as failed and missing payments, failed auto reconnections. I initiated and led multiple projects to integrate payment options via web services/APIs and this helped to deliver success on multiple operational fronts.
+- It moved the payment journey into real-time experience, instant pay with instant remittance and instant service activation.
+- It led to decline in failed/missing payments.
+- Increased auto reconnections which in turn reduced call centre traffic and customer complaints.
+- Grew digital revenue to over $3 Million per month, grew transactions from about 3K to average 12K per day.
+- The growth in digital payments reduced cash transactions and buiness expenditure on cash handling and also reduced cash handling risks.
+From this success, a new role in the Back Office, **Digital Payments Officer** was formalised as a critical support function to the business.
+  
+
+## Experience
+
+### Assistant Supply Chain Coordinator | Unicorn Ingredients Limited | Epsom, Surrey, UK | Aug 2024 - PRESENT
 - Adopted usage of VBA scripts and using MS Excel to aggregate and consolidate multiple raw data files used for monthly reporting, significantly reducing data gathering time.
 - Implemented better ways to transform data from different sources using Power Query for report generation. This has helped to reduce time taken to prepare and distribute some reports for timely decision making by senior management.
-- Designed a production schedule to track processing orders, raw materials movement all of which were previously manual.
-- 	Maintained a healthy working relationship with external partners such as haulage companies and processing houses to enable smooth running of business operations such as remote monitoring.
-- 	Used Power Query to design an automated stock reconciliation tracker combining all stock reports, centrally monitor the monthly reconciliation exercise as well as report on all exceptions using one report automatically.
+- Maintained optimal stock levels across product categories by conducting demand forecasts using predictive analysis, time series and moving averages across 12 SKUs.
+- Developed 3 interactive reports in MS Excel and Power BI, improving inventory accuracy by 20% and reducing slow-moving inventory 15% through precise monitoring and reporting.
+- Using Excel VBA, I wrote a script to enhance the stock reconciliation process by automating the aggregation of multiple data files into one central repository reducing workload by about 5 hours per month.
+- Collaborated with internal and external teams to streamline supply chain operations, material planning for bespoke orders in compliance with supplier acceptance records.
+- Implement continuous improvement initiatives to streamline inventory control.
 
 
 
@@ -17,25 +32,25 @@ I have over 6 years’ proven experience in business analysis, data-driven analy
 ### Customer Experience & Payments Analyst (EAST, CENTRAL & W. AFRICA) MultiChoice Group, APRIL 2021 - JULY 2024
 Delivered several payment solutions on technologies such as USSD, Mobile Apps, MPOS, and Web for markets/countries such as Liberia, Sierra Leone, DRC, Rwanda. Payment solutions were run by major payment partners such as mobile networks (MTN, Airtel, Africell, Orange) and banks.
 
-- Mapped existing payment processes (as-is) and designed proposed processes (to-be) across multiple platforms — USSD, Mobile Apps, Web, and ATMs.
-- Built data models (ETL processes in Excel) to aggregate and monitor digital payments data from 6 countries; developed dynamic Power BI dashboards for daily, weekly, and monthly reporting.
-- Analyzed data using XML payloads, Excel, and SQL to identify business needs and define actionable requirements.
-- Led vendor compliance sessions with third-party payment providers — reviewed API documentation, tracked performance, and followed up on solution defects, resulting in improved customer experience scores.
-- Conducted channel testing, identified bugs, and collaborated with developer teams to recommend fixes aligned with business and technical requirements.
-- Reviewed business cases and proposals from potential payment partners to ensure alignment with strategic objectives and measurable business value.
-- Owned third-party vendor relationships — managed integration reviews, onboarding, payment journey mapping, testing, and deployments within agreed timelines.
-- Communicated progress updates and key insights to stakeholders across business and technical teams.
+- Supported performance analysis by building interactive reports and dashboards (whilst leveraging Power Query, SQL to extract and clean data) to monitor and track KPIs and SLAs with an average of 15,000 daily transactions.
+- Drove auto reconnection success to above 90% and reduced back-office manual reconnections by driving delivery of customer journey enhancements.
+- Improved the pay journey experience by delivering direct integration of payment channels via APIs/web services, growing payment volumes by over 12,000 per day.
+- Improved customer satisfaction by delivering direct integrations which reduced payment delays, cut settlement time from 2+ days to real-time.
+- Managed end-to-end stakeholder relationships, vendor onboarding, collaborated with internal and external developers to deliver technical support and with legal teams to oversee vendor compliance with regulatory jurisdictions to mitigate risk.
+- I owned and managed the end-to-end product life cycles of all the digital payments solutions, supporting onboarding, integration and technical needs.
+
 
 
 ### Automated Payments - Project Workstream Lead - HAILE PROJECT ETHIOPIA
- - Led technical workstream to automate long over due subscription payment experience in Ethiopia.
- - Redesigned payment journeys for different payments channels (USSD, ATM and Web) to integrate major payment institutions in Ethiopia onto payment platforms. Institutions included CBE - Central Bank of Ethiopia, Awash Banks, Dashen Bank, Amole Bank.
- - Undertook mentoring and training of incountry personnel to adopt and dapt to the new ways of real time monitoring and analysis.
+ - Led technical workstream to transform legacy payment options to fully integrated solutions via web services in Ethiopia. This reduced settlement times from 7+ days to real-time.
+ - Redesigned/remapped payment journeys for different payments channels (USSD, ATM and Web) to integrate major payment partners such as CBE - Central Bank of Ethiopia, Awash Banks, Dashen Bank, Amole Bank.
+ - Undertook mentoring and training of incountry personnel to adopt and adapt to the new ways of real time monitoring and analysis.
+ - Introduced end-to-end support structures to Ethiopian counterparts guiding them through vendor management, onboarding, compliance and governance aspects.
 
 ### Payments Data Officer MultiChoice Uganda, Feb 2015 – Mar 2021
 Successfully steered the revamp and delivery of several digital payment solutions. I was responsible for monitoring all digital subscription payment channels (USSD, ATM, Mobile Apps, POS, Banks) in Uganda with over 8,000+ payments per day, owning the payments roadmap - being the resource person/payment products owner in the country, third-party vendor relationship management as well as in-country custody of technical support.
 
-- Led the revamp and delivery of multiple digital payment solutions, including USSD, ATM, Mobile App, POS, and Bank integrations, growing volumes from below 3,000 to 8,000+ transactions daily.
+- Led the revamp and delivery of multiple digital payment solutions, including USSD, ATM, Mobile App, POS, and Bank integrations, growing volumes from below 3,000 to 12,000+ transactions daily.
 - Owned the payments roadmap and served as the in-country contact for all payment integrations, vendor management, and technical support.
 - Analyzed payment data using Excel, SQL, and Power BI to identify root causes of failed transactions, reducing payment failures and reconnection delays significantly.
 - Developed Business Requirement Documents (BRDs), use cases, and wireframes for system enhancements across digital and mobile banking channels.
@@ -85,14 +100,15 @@ Sample E-commerce project designed under HavardX/CS50 Web design with Python and
 - Data modelling (ETL) with MS Excel and Power Query & M
 - Agile methodology
 - Business needs and requirements gathering
-- Use case/business case preparation	•	Process mapping (as-is and to-be mapping)
-- Process improvement and Change management
+- Use case/business case preparation
+- Process mapping (as-is and to-be mapping)
 - SQL
-- Stakeholder relationship management
-- System Integration Testing and User Acceptance Testing, Web services and API Integrations
+- Stakeholder engagement
+- System Integration Testing and User Acceptance Testing,
+- Web services and API Integrations
 - Data visualisation with Excel & Power BI
-- Data analysis with MS Excel, Pandas & Numpy
-- SQL, Python, TypeScript,  Excel VBA
+- Python, TypeScript,  Excel VBA
+- JavaScript
 - HTML, CSS, Bootstrap
 - Web development with Django/Flask frameworks
 
