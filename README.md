@@ -81,10 +81,12 @@ Delivered several payment solutions on technologies such as USSD, Mobile Apps, M
 Successfully steered the revamp and delivery of several digital payment solutions. I was responsible for monitoring all digital subscription payment channels (USSD, ATM, Mobile Apps, POS, Banks) in Uganda with over 8,000+ payments per day, owning the payments roadmap - being the resource person/payment products owner in the country, third-party vendor relationship management as well as in-country custody of technical support.
 
 ### SAMPLE PROJECTS DELIVERED
-DStv Subscription payments via Web application <img width="1697" height="533" alt="mydstv pay" src="https://github.com/user-attachments/assets/06e0198f-62ec-48ae-b647-4d33a4372125" />
+DStv Subscription payments via Web application 
+<img width="1697" height="533" alt="mydstv pay" src="https://github.com/user-attachments/assets/06e0198f-62ec-48ae-b647-4d33a4372125" />
 
-GOtv<img width="1666" height="549" alt="GOtv pay" src="https://github.com/user-attachments/assets/fb3622c6-cd11-490d-b4e1-d08a23acda0a" />
- Subscription payments via Web application
+GOtv Subscription payments via Web application
+<img width="1666" height="549" alt="GOtv pay" src="https://github.com/user-attachments/assets/fb3622c6-cd11-490d-b4e1-d08a23acda0a" />
+ 
 
 Digital self-service applications on web and USSD applications
 <img width="1559" height="531" alt="how to pay" src="https://github.com/user-attachments/assets/c53b755c-b74f-4170-8ad7-ee46671ebd20" />
