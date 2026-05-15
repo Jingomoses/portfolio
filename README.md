@@ -82,14 +82,14 @@ Successfully steered the revamp and delivery of several digital payment solution
 
 ### SAMPLE PROJECTS DELIVERED
 DStv Subscription payments via Web application 
-<img width="1697" height="533" alt="mydstv pay" src="https://github.com/user-attachments/assets/06e0198f-62ec-48ae-b647-4d33a4372125" />
+<img width="1500" height="450" alt="mydstv pay" src="https://github.com/user-attachments/assets/06e0198f-62ec-48ae-b647-4d33a4372125" />
 
 GOtv Subscription payments via Web application
-<img width="1666" height="549" alt="GOtv pay" src="https://github.com/user-attachments/assets/fb3622c6-cd11-490d-b4e1-d08a23acda0a" />
+<img width="1500" height="450" alt="GOtv pay" src="https://github.com/user-attachments/assets/fb3622c6-cd11-490d-b4e1-d08a23acda0a" />
  
 
 Digital self-service applications on web and USSD applications
-<img width="1559" height="531" alt="how to pay" src="https://github.com/user-attachments/assets/c53b755c-b74f-4170-8ad7-ee46671ebd20" />
+<img width="1500" height="450" alt="how to pay" src="https://github.com/user-attachments/assets/c53b755c-b74f-4170-8ad7-ee46671ebd20" />
 
 
 ### SUCCESSES
