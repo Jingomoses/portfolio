@@ -1,4 +1,3 @@
-<center> # Moses Jingo </center>
 <center>Email: jingomoses@gmail.com</center>
 <center>Tel: +447570235810 </center>
 
