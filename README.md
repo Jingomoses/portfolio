@@ -3,10 +3,10 @@
 
 Welcome!
 
-I’m a digital payments analyst experienced in the management of digital products and their lifecycles end-to-end, digital payments solutions, business systems analysis, product support, agile delivery and testing, vendor and stakeholder management, risk analysis and governance.
-I also have experience in customer journey mapping and process improvement in both technical and non-technical customer touch points, with the ability to apply customer experience methodologies and techniques to improve service delivery and deliver positive business returns.
-I enjoy working with data, organising and analysing it to uncover insights that deliver value back to businesses in form of revenue and other KPIs.
-I have previously led initiatives to deliver digital payment solutions in sub-Saharan Africa (Uganda, Rwanda, Ethiopia, The Democratic Republic of Congo, Seychelles, Liberia, Sierra Leone, Cameroon, Senegal). In Uganda for example, I overhauled the subscription payments landscape by redesigning both the front-end and technical journeys on mobile phones (USSD), mobile and web apps as well as Bank solutions (ATM and Teller) and integrated all applications directly via APIs/web services. The aim was to resolve multiple business challenges relating to:
+<p> I’m a digital payments analyst experienced in the management of digital products and their lifecycles end-to-end, digital payments solutions, business systems analysis, product support, agile delivery and testing, vendor and stakeholder management, risk analysis and governance. </p>
+<p>I enjoy working with data, organising and analysing it to uncover insights that deliver value back to businesses in form of revenue and other KPIs. I also have experience in customer journey mapping and process improvement in both technical and non-technical customer touch points, with the ability to apply customer experience methodologies and techniques to improve service delivery and deliver positive business returns.</p>
+<p>I have previously led initiatives to deliver digital payment solutions in sub-Saharan Africa (Uganda, Rwanda, Ethiopia, The Democratic Republic of Congo, Seychelles, Liberia, Sierra Leone, Cameroon, Senegal). In Uganda for example, I overhauled the subscription payments landscape by redesigning both the front-end and technical journeys on mobile phones (USSD), mobile and web apps as well as Bank solutions (ATM and Teller) and integrated all applications directly via APIs/web services. The aim was to resolve multiple business challenges relating to:</p>
+
 -	High rate of failed and untraceable payments.
 -	High rate of failed auto reconnections
 -	High rate of failed auto provisioning (such as automated package changes)
